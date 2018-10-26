@@ -28,7 +28,7 @@ Requires:
 
 - Quick start _(ambari-agent only)_:
   - Fetch and then execute: `sudo sh ./ambari-bootstrap.sh`
-  - Or, if you trust me: `curl -sSL https://raw.githubusercontent.com/seanorama/ambari-bootstrap/master/ambari-bootstrap.sh | sudo -E sh`
+  - Or, if you trust me: `curl -sSL https://raw.githubusercontent.com/therson/ambari-bootstrap/master/ambari-bootstrap.sh | sudo -E sh`
 
 - With options _(showing install of Ambari agent, server, Oracle Java, and registering to an Ambari Server such that SSH keys aren't required)_
 
